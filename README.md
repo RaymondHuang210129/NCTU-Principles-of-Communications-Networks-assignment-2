@@ -15,7 +15,7 @@ channel when one nominal channel becomes free), what the average blocking probab
 the average time consumption to borrow a channel?
 
 
-	/*
+	<code>
 	
 	..............______.......................;<br />
 	............./......\......................;<br />
@@ -51,4 +51,4 @@ the average time consumption to borrow a channel?
 	...........................................;<br />
 
 
-	*/
+	</code>
