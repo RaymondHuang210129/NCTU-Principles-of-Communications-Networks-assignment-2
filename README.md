@@ -1,5 +1,5 @@
 # NCTU-Principles-of-Communications-Networks-assignment-2
-	Principles of Communications Networks Homework Assignment 2
+	#  Principles of Communications Networks Homework Assignment 2
 1. [20%] Please write a channel request generator. The arrival rate of the channel request follows Poisson
 distribution with mean 0.5. In addition, please show the inter-arrival time distribution of these channel
 requests is Exponential distribution. [Hint: you can plot the pdf of the inter-arrival time]
@@ -14,4 +14,8 @@ Poisson distribution and Exponential distribution, respectively. We define lambd
 channel when one nominal channel becomes free), what the average blocking probability? Whats
 the average time consumption to borrow a channel?
 
+<<<<<<< HEAD
 ![cell pic](http://i.imgur.com/jYqLT6z.jpg)
+=======
+![cell pic](http://imgur.com/jYqLT6z)
+>>>>>>> 690f33e248fe5852afd290dea3f6dba24fa40e5d
