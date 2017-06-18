@@ -14,16 +14,8 @@ Poisson distribution and Exponential distribution, respectively. We define lambd
 channel when one nominal channel becomes free), what the average blocking probability? Whats
 the average time consumption to borrow a channel?
 
-<<<<<<< HEAD
-
-
-
 			    ______
-			   /      \
-=======
-		            ______
 	        	   /      \
->>>>>>> de2e250a85424accb587372f67b5eee667fac86c
 	                  /        \
 	                 /   BS7    \______
 	                 \ CH1~CH5  /      \
