@@ -13,7 +13,11 @@ Poisson distribution and Exponential distribution, respectively. We define lambd
 (2) When a cell can borrow channels from its richest neighboring cell (must return the borrowed
 channel when one nominal channel becomes free), what the average blocking probability? Whats
 the average time consumption to borrow a channel?
+
+
 /*
+
+
 ............................______
 .........................../      \
 ........................../        \
@@ -45,4 +49,6 @@ the average time consumption to borrow a channel?
 .........................\ CH6~CH10 /
 ..........................\        /
 ...........................\______/
+
+
 */
