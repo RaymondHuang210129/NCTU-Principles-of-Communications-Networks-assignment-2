@@ -1,5 +1,5 @@
 # NCTU-Principles-of-Communications-Networks-assignment-2
-	Principles of Communications Networks Homework Assignment 2
+	#  Principles of Communications Networks Homework Assignment 2
 1. [20%] Please write a channel request generator. The arrival rate of the channel request follows Poisson
 distribution with mean 0.5. In addition, please show the inter-arrival time distribution of these channel
 requests is Exponential distribution. [Hint: you can plot the pdf of the inter-arrival time]
@@ -14,41 +14,4 @@ Poisson distribution and Exponential distribution, respectively. We define lambd
 channel when one nominal channel becomes free), what the average blocking probability? Whats
 the average time consumption to borrow a channel?
 
-
-	<code>
-	
-	..............______.......................;<br />
-	............./......\......................;<br />
-	............/........\.....................;<br />
-	.........../...BS7....\______..............;<br />
-	...........\.CH1~CH5../......\.............;<br />
-	............\......../........\............;<br />
-	.............\______/...BS9....\...........;<br />
-	............./......\CH11~CH15./...........;<br />
-	............/........\......../............;<br />
-	.....______/...BS8....\______/.............;<br />
-	..../......\.CH6~CH10./......\.............;<br />
-	.../........\......../........\............;<br />
-	../...BS1....\______/...BS4....\______.....;<br />
-	..\.CH1~CH5../......\.CH1~CH5../......\....;<br />
-	...\......../........\......../........\...;<br />
-	....\______/...BS3....\______/...BS6....\..;<br />
-	..../......\CH11~CH15./......\CH11~CH15./..;<br />
-	.../........\......../........\......../...;<br />
-	../...BS2....\______/...BS5....\______/....;<br />
-	..\.CH6~CH10./......\.CH6~CH10./...........;<br />
-	...\......../........\......../............;<br />
-	....\______/...BS10...\______/.............;<br />
-	...........\.CH1~CH5../......\.............;<br />
-	............\......../........\............;<br />
-	.............\______/...BS12...\...........;<br />
-	............./......\CH11~CH15./...........;<br />
-	............/........\......../............;<br />
-	.........../...BS1....\______/.............;<br />
-	...........\.CH6~CH10./....................;<br />
-	............\......../.....................;<br />
-	.............\______/......................;<br />
-	...........................................;<br />
-
-
-	</code>
+![cell pic](http://imgur.com/jYqLT6z)
